@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Most banks in the world provided credit card services. This service is quite popular because using credit card is a convenient way to pay your bill, grocery, rent, or anything you need. Credit card works the similarly to a short term loan where at the end of your billing cycle you have to pay your bill before the due date. In this project, a bank manager is disturbed with more and more customers leaving their credit card services. We would try to tackle this problem by creating a supervised learning model that can predict whether a customer will attrite or not. This model can help the manager to prevent customer attrition by giving a special attention to customer that is predicted to attrite.
+Most banks in the world provided credit card services. This service is quite popular because using credit card is a convenient way to pay your bill, grocery, rent, or anything you need. Credit card works similarly to a short term loan where at the end of your billing cycle you have to pay your bill before the due date. In this project, a bank manager is disturbed with more and more customers leaving their credit card services. We would try to tackle this problem by creating a supervised learning model that can predict whether a customer will attrite or not. This model can help the manager to prevent customer attrition by giving a special attention to customer that is predicted to attrite.
 
 ## Dataset and Tools
 
